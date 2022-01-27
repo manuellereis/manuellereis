@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Manu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Manu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Manu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/903478250100105287/935916617668395148/download20220103121820.png">
+  <img align="right" alt="Manu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/903478250100105287/936072360421912596/download20220103223714.png">
 
   ##
  
