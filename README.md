@@ -1,4 +1,4 @@
-## Oiii eu sou Manuelle Reis, atualmente estudando HTML5, CSS3 e Javascript!
+## Oiii eu sou Manuelle Reis, aperfeiçoando-me em HTML5, CSS3 e estudando Python!
 
 <div align="center">
   <a href="https://github.com/manuellereis">
