@@ -1,4 +1,4 @@
-## Oiii eu sou a Manu, seja bem-vindo!.
+## Oiii eu sou a Manu, seja bem-vindo!
 
 <div align="center">
   <a href="https://github.com/manuellereis">
