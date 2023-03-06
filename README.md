@@ -16,11 +16,11 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCVFQt4hUw-z3qAUsh4ZBmGA" target="_blank"><img src="https://img.shields.io/badge/YouTube-a626a6?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/manu.reix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-a626a6?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5Sx435PqRr" target="_blank"><img src="https://img.shields.io/badge/Discord-a626a6?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:manureis270204@gmail.com"><img src="https://img.shields.io/badge/-Gmail-a626a6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/manuelle-r-650145203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-a626a6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCVFQt4hUw-z3qAUsh4ZBmGA" target="_blank"><img src="https://img.shields.io/badge/YouTube-800080?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/manu.reix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5Sx435PqRr" target="_blank"><img src="https://img.shields.io/badge/Discord-800080?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:manureis270204@gmail.com"><img src="https://img.shields.io/badge/-Gmail-800080?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/manuelle-r-650145203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ![Snake animation](https://github.com/manuellereis/manuellereis/blob/output/github-contribution-grid-snake.svg)
 </div>
